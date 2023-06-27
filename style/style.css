@@ -1,0 +1,32 @@
+* {
+    margin: auto;
+}
+
+header .nav {
+    background-color: rgb(38, 117, 88);
+    font-size: 200%;
+    color: white;
+    text-decoration: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+header .nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+header .nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.Accueil {
+    border-style: solid;
+    /* border-color: black; */
+    border-width: thick;
+}
+
+.content {
+    background-color: blue;
+}
