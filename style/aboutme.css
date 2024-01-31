@@ -22,10 +22,16 @@ header .nav a {
     color: white;
 }
 
-.content h2 {
+.content .currently h2 {
     color : rgb(38, 117, 88);
     margin-left: 11%;
     font-size: 270%;
     margin-top: 5%;
+}
+
+.content .currently p {
+    margin-left: 11%;
+    margin-right: 10%;
+    font-size: 120%;
 
 }
