@@ -1,5 +1,6 @@
 * {
     margin: auto;
+    font-family: "Kanit", sans-serif;
 }
 
 header .nav {
@@ -22,11 +23,34 @@ header .nav a {
 }
 
 .Accueil {
-    border-style: solid;
-    /* border-color: black; */
-    border-width: thick;
+    text-decoration: underline;
 }
 
 .content {
-    background-color: blue;
+    display: flex;
+}
+
+.content img {
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 10.5%;
+    background-color: rgb(38, 117, 88);
+    padding: 1%;
+    border-radius: 5%;
+
+}
+
+.content .text {
+    display: block;
+    margin-left: 4%;
+}
+
+.content .text h2 {
+    font-size: 220%;
+    color:rgb(38, 117, 88);
+}
+
+.content .text p {
+    margin-right: 30%;
+    font-size: 150%
 }
