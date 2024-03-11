@@ -1,0 +1,62 @@
+* {
+    margin: auto;
+    font-family: "Kanit", sans-serif;
+    overflow: hidden;
+}
+
+header .nav {
+    background-color: rgb(38, 117, 88);
+    font-size: 200%;
+    color: white;
+    text-decoration: none;
+}
+
+header .nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0%;
+    padding-top: 0%;
+    padding-left: 0%;
+}
+
+.nav ul li {
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    padding-left: 8.5%;
+    padding-right: 8.75%;
+}
+
+.nav ul li:hover{
+    background-color: aquamarine;
+}
+
+header .nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.Project {
+    text-decoration: underline;
+}
+
+.blokus {
+    background-color: rgb(38, 117, 88);
+    padding: 1em;
+    margin-top: 2em;
+    width: 24.5%;
+    border-radius: 1em;
+}
+
+img {
+    width: 15em;
+}
+
+p {
+    color: white;
+}
+
+.content {
+    display: flex;
+}
+
+

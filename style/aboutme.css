@@ -75,34 +75,38 @@ h3 {
     margin-left: 5%;
 }
 
-.text {
+.professional .text {
     display: flex;
 }
 
-.text p {
+.professional p {
     margin: 0%;
     margin-top: 3%;
-    margin-right: 3%;
+    margin-right: 10%;
     margin-left: 10%;
     font-size: 120%;
 }
 
-.text img {
+.professional img {
     width: 25%;
     padding: 0%;
-    margin-right: 15%;
+    margin-right: 20%;
 }
 
 footer p {
     background-color: rgb(38, 117, 88);;
     text-align: center;
     color: white;
-    margin-top: 10%;
+    margin-bottom: -50%;
     padding-bottom: 1%;
     position: absolute;
     bottom: 0;
-    padding-left : 44%;
+    padding-left : 43.87%;
     padding-right: 44.75%;
     padding-top: 0.75%;
-
 }
+
+footer img{
+    size: 20%;
+}
+
