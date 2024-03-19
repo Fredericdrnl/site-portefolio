@@ -41,22 +41,54 @@ header .nav a {
 
 .blokus {
     background-color: rgb(38, 117, 88);
-    padding: 1em;
+    padding: 0.5em;
     margin-top: 2em;
-    width: 24.5%;
+    width: 15em;
     border-radius: 1em;
+}
+
+.blokus:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.lfl {
+    background-color: rgb(38, 117, 88);
+    padding: 0.5em;
+    margin-top: 2em;
+    width: 15em;
+    border-radius: 1em;
+}
+
+.lfl:hover {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.lethal {
+    background-color: rgb(38, 117, 88);
+    padding: 0.5em;
+    margin-top: 2em;
+    width: 15em;
+    border-radius: 1em;
+}
+
+.lethal:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 img {
     width: 15em;
+    border-radius: 0.5em;
 }
 
 p {
     color: white;
+    text-decoration: underline;
 }
 
-.content {
+.content{
     display: flex;
 }
+
+
 
 
