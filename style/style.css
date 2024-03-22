@@ -2,11 +2,17 @@
     margin: auto;
     font-family: "Kanit", sans-serif;
     overflow: hidden;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
+
 
 header .nav {
     background-color: rgb(38, 117, 88);
-    font-size: 200%;
+    font-size: 2em;
     color: white;
     text-decoration: none;
 }
@@ -14,15 +20,15 @@ header .nav {
 header .nav ul {
     list-style-type: none;
     display: flex;
-    margin: 0%;
-    padding-top: 0%;
-    padding-left: 0%;
+    margin: 0em;
+    padding-top: 0em;
+    padding-left: 0em;
 }
 
 .nav ul li {
-    padding-top: 0.5%;
-    padding-bottom: 1%;
-    padding-left: 8.5%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 4.2em;
     padding-right: 8.75%;
 }
 
@@ -44,39 +50,38 @@ header .nav a {
 }
 
 .content img {
-    width: 30%;
-    margin-top: 5%;
-    margin-left: 19.5%;
+    width: 50em;
+    margin-top: 4.2em;
+    margin-left: 16em;
     background-color: rgb(38, 117, 88);
-    padding: 1%;
-    border-radius: 5%;
-
+    padding: 1em;
+    border-radius: 1em;
 }
 
 .content .text {
     display: block;
-    margin-left: 4%;
+    margin-left: 4em;
 }
 
 .content .text h2 {
-    font-size: 220%;
+    font-size: 4em;
     color:rgb(38, 117, 88);
 }
 
 .content .text p {
-    margin-right: 30%;
-    font-size: 150%
+    margin-right: 15em;
+    font-size: 1.5em;
 }
 
 footer p {
-    background-color: rgb(38, 117, 88);;
+    background-color: rgb(38, 117, 88);
     text-align: center;
     color: white;
-    margin-top: 10.5%;
+    margin-top: 7.5%;
     padding-bottom: 1%;
     position: absolute;
     bottom: 0;
-    padding-left : 44%;
-    padding-right: 44.75%;
+    padding-left : 43.2em;
+    padding-right: 42em;
     padding-top: 0.75%;
 }
