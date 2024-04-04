@@ -73,15 +73,22 @@ header .nav a {
     font-size: 1.5em;
 }
 
-footer p {
+footer {
     background-color: rgb(38, 117, 88);
     text-align: center;
     color: white;
     margin-top: 7.5em;
-    padding-bottom: -20em;
+    margin-bottom: 0em;
     position: absolute;
     bottom: 0;
-    padding-left : 43.2em;
-    padding-right: 42em;
-    padding-top: 0.75%;
+    padding-left : 43.40%;
+    padding-right: 44.25%;
+    padding-bottom:1%;
+    padding-top: 1%;
+    display: inline;
+    display: flex;
+}
+
+.linkedin {
+ width: 4em;
 }

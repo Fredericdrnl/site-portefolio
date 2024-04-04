@@ -81,7 +81,7 @@ h3 {
     margin-left: 5%;
 }
 
-.professional .text {
+.text {
     display: flex;
 }
 
@@ -93,6 +93,22 @@ h3 {
     font-size: 120%;
 }
 
+.school p {
+    margin: 0%;
+    margin-top: 3%;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 120%;
+}
+
+.school img {
+    margin-right: 10em;
+}
+
+.lycee {
+    margin-right: 5em;
+}
+
 .professional img {
     width: 25%;
     padding: 0%;
@@ -102,16 +118,17 @@ h3 {
 footer p {
     background-color: rgb(38, 117, 88);
     text-align: center;
-    color: white;
+    color: rgb(66, 20, 20);
     margin-bottom: -50em;
     padding-bottom: 1%;
     position: absolute;
     bottom: 0;
-    padding-left : 43.2em;
+    padding-left : 42.45em;
     padding-right: 42em;
     padding-top: 0.75%;
     display: flex;
 }
+
 
 body::-webkit-scrollbar {
     width: 12px;
