@@ -86,7 +86,7 @@ img {
     display:table;
 }
 
-footer p {
+footer{
     background-color: rgb(38, 117, 88);;
     text-align: center;
     color: white;
@@ -97,6 +97,15 @@ footer p {
     padding-left : 43.87%;
     padding-right: 44.75%;
     padding-top: 0.75%;
+}
+
+.linkedin {
+    width: 3.75em;
+    margin-top: 0.5em;
+}
+
+.github {
+    width: 2em;
 }
 
 body::-webkit-scrollbar {
@@ -111,5 +120,7 @@ body::-webkit-scrollbar-thumb {
     background-color: rgb(38, 117, 88); 
     border-radius: 1px; 
 }
+
+
 
 

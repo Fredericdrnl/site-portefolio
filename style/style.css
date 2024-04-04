@@ -81,14 +81,17 @@ footer {
     margin-bottom: 0em;
     position: absolute;
     bottom: 0;
-    padding-left : 43.40%;
-    padding-right: 44.25%;
+    padding-left : 45.75%;
+    padding-right: 45.25%;
     padding-bottom:1%;
     padding-top: 1%;
-    display: inline;
-    display: flex;
 }
 
 .linkedin {
- width: 4em;
+    width: 3.75em;
+    margin-top: 0.5em;
+}
+
+.github {
+    width: 2em;
 }

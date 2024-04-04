@@ -129,6 +129,15 @@ footer p {
     display: flex;
 }
 
+.linkedin {
+    width: 3.75em;
+    margin-top: 0.5em;
+}
+
+.github {
+    width: 2em;
+}
+
 
 body::-webkit-scrollbar {
     width: 12px;
