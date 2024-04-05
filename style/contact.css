@@ -95,18 +95,18 @@ label {
 }
 
 
-footer p {
+footer{
     background-color: rgb(38, 117, 88);
     text-align: center;
     color: white;
     margin-top: 7.5%;
-    padding-bottom: 1%;
     position: absolute;
     bottom: 0;
     margin-bottom: -15em;
     padding-left : 42.45em;
     padding-right: 42em;
-    padding-top: 0.75%;
+    padding-bottom:0.2%;
+    padding-top: 1%;
 }
 
 .linkedin {
