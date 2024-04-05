@@ -1,0 +1,83 @@
+* {
+    margin: auto;
+    font-family: "Kanit", sans-serif;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+header .nav {
+    background-color: rgb(38, 117, 88);
+    font-size: 2em;
+    color: white;
+    text-decoration: none;
+}
+
+header .nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0em;
+    padding-top: 0em;
+    padding-left: 0em;
+}
+
+.nav ul li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.parcours {
+    padding-left: 19.75%;
+    padding-right: 20%;
+}
+
+.competences {
+    text-decoration: underline;
+    padding-left: 20%;
+    padding-right: 19.75%;
+}
+
+
+.A {
+    padding-left: 4.2em;
+    padding-right: 8.75%;
+}
+
+.nav ul li:hover{
+    background-color: aquamarine;
+}
+
+header .nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.Accueil {
+    text-decoration: underline;
+}
+
+footer{
+    background-color: rgb(38, 117, 88);;
+    text-align: center;
+    color: white;
+    margin-bottom: -43%;
+    position: absolute;
+    bottom: 0;
+    padding-left : 42.45em;
+    padding-right: 42em;
+    padding-bottom:0.2%;
+    padding-top: 1%;
+}
+
+.linkedin {
+    width: 3.75em;
+    margin-top: 0.5em;
+}
+
+.github {
+    width: 2em;
+}
