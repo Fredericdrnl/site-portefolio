@@ -26,10 +26,10 @@ header .nav ul {
 }
 
 .nav ul li {
+    width: 100%;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-    padding-left: 4.2em;
-    padding-right: 8.75%;
+    text-align: center;
 }
 
 .nav ul li:hover{
@@ -81,10 +81,9 @@ footer {
     margin-bottom: 0em;
     position: absolute;
     bottom: 0;
-    padding-left : 44.25%;
-    padding-right: 44.5%;
     padding-bottom:0.2%;
     padding-top: 1%;
+    width: 100%;
 }
 
 .linkedin {
